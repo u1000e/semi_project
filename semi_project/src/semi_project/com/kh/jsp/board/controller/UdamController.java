@@ -8,7 +8,7 @@ public class UdamController {
 	
 	public void bbb() {
 		
-		
+		System.out.println("나는 bbb를 출력할거야.");
 		
 	}
 
