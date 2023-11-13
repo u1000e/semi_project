@@ -1,12 +1,10 @@
 package semi_project.com.kh.jsp.board.controller;
 
-public class Sfsdfdsfds {
+public class Hahaha {
 	
-	
-	public void hihihihih() {
+	public void hahaah() {
 		
 		
 	}
-	
 
 }
